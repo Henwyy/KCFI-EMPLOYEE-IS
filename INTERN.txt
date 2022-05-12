@@ -1,0 +1,18 @@
+-InternID = auto increment
+-upload picture
+-First name = input
+-Last name = input
+-middle name = input
+-status (radio button, INACTIVE, ACTIVE, DROP, DONE)
+-University = input
+
+
+Hidden
+-start date/onboard date = date picker
+-hours to render = input hours
+-department = dropbox(department sa masterlist same lang)
+-resume link = input box
+-portfolio (optional) = input box
+-Moa(with signature) = upload file
+-Internship Agreement Form (KFCI) = upload file
+-Waiver/permission = upload file
